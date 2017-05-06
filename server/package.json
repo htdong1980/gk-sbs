@@ -1,0 +1,16 @@
+{
+  "name": "gk-sbs",
+  "version": "1.0.0",
+  "description": "Gia Khanh SBS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoang Thanh Dong",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7",
+    "passport": "^0.3.2"
+  }
+}
